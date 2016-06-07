@@ -1,0 +1,14 @@
+layout_spectrum: 0.5529005462303758
+typography_spectrum: 0.8035731795243919
+color:
+  brandStrength: 0.3091495658736676
+  lightness: 0.07056366582401097
+  saturation: 0.2212966177612543
+  rhythmicContrast: 0.7511711055412889
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Dreamtravels
